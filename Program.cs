@@ -1,1 +1,6 @@
-﻿Console.WriteLine("Hello, World!");
+﻿
+
+for()
+Console.WriteLine("Введите элементы массива");
+
+
